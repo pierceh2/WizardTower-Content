@@ -1,0 +1,8 @@
+{
+  "subjects": [
+    { "id": "cardiology", "name": "Cardiology", "lang": "en" },
+    { "id": "medicine", "name": "Medicine", "lang": "en" },
+    { "id": "spanish", "name": "Spanish", "lang": "es" },
+    { "id": "mandarin", "name": "Mandarin", "lang": "zh" }
+  ]
+}
