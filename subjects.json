@@ -1,8 +1,14 @@
 {
+  "schemaVersion": 1,
   "subjects": [
-    { "id": "cardiology", "name": "Cardiology", "lang": "en" },
-    { "id": "medicine", "name": "Medicine", "lang": "en" },
-    { "id": "spanish", "name": "Spanish", "lang": "es" },
-    { "id": "mandarin", "name": "Mandarin", "lang": "zh" }
+    { "id": "cardiology", "name": "Cardiology", "lang": "en",
+      "decks": ["Cardiology", "Cardiology Trials", "The Only EKG Deck You'll Ever Need"] },
+    { "id": "medicine", "name": "Medicine", "lang": "en",
+      "decks": ["AnKing Overhaul for Step 1 & 2"] },
+    { "id": "spanish", "name": "Spanish", "lang": "es",
+      "decks": ["Spanish: Refold ES1K"] },
+    { "id": "mandarin", "name": "Mandarin", "lang": "zh",
+      "decks": ["Mandarin: Vocabulary", "Mandarin: z Sound Training", "Mandarin:z", "Du Chinese"] }
   ]
+}
 }
