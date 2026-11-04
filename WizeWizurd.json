@@ -3,7 +3,7 @@
   "updatedAt": "2026-11-04T08:00:00Z",
   "facts": [
     {
-      "id": "random-0001",
+      "id": "wz-random-0001",
       "subject": "random",
       "lang": "en",
       "title": "Dancing plague of 1518",
@@ -16,7 +16,7 @@
       "disputed": true
     },
     {
-      "id": "random-0002",
+      "id": "wz-random-0002",
       "subject": "random",
       "lang": "en",
       "title": "Emu War",
@@ -29,7 +29,7 @@
       "disputed": true
     },
     {
-      "id": "random-0003",
+      "id": "wz-random-0003",
       "subject": "random",
       "lang": "en",
       "title": "Cadaver Synod",
@@ -42,7 +42,7 @@
       "disputed": false
     },
     {
-      "id": "random-0004",
+      "id": "wz-random-0004",
       "subject": "random",
       "lang": "en",
       "title": "Mpemba effect",
@@ -55,7 +55,7 @@
       "disputed": true
     },
     {
-      "id": "random-0005",
+      "id": "wz-random-0005",
       "subject": "random",
       "lang": "en",
       "title": "Turritopsis dohrnii",
@@ -68,7 +68,7 @@
       "disputed": false
     },
     {
-      "id": "random-0006",
+      "id": "wz-random-0006",
       "subject": "random",
       "lang": "en",
       "title": "Wow! signal",
@@ -81,7 +81,7 @@
       "disputed": true
     },
     {
-      "id": "random-0007",
+      "id": "wz-random-0007",
       "subject": "random",
       "lang": "en",
       "title": "Pitch drop experiment",
@@ -94,7 +94,7 @@
       "disputed": false
     },
     {
-      "id": "random-0008",
+      "id": "wz-random-0008",
       "subject": "random",
       "lang": "en",
       "title": "Tunguska event",
@@ -107,7 +107,7 @@
       "disputed": true
     },
     {
-      "id": "cardiology-0001",
+      "id": "wz-cardiology-0001",
       "subject": "cardiology",
       "lang": "en",
       "title": "Werner Forßmann",
@@ -120,7 +120,7 @@
       "disputed": true
     },
     {
-      "id": "cardiology-0002",
+      "id": "wz-cardiology-0002",
       "subject": "cardiology",
       "lang": "en",
       "title": "Voodoo death",
@@ -133,7 +133,7 @@
       "disputed": true
     },
     {
-      "id": "cardiology-0003",
+      "id": "wz-cardiology-0003",
       "subject": "cardiology",
       "lang": "en",
       "title": "Channichthyidae",
@@ -146,7 +146,7 @@
       "disputed": false
     },
     {
-      "id": "cardiology-0004",
+      "id": "wz-cardiology-0004",
       "subject": "cardiology",
       "lang": "en",
       "title": "Diving reflex",
@@ -159,7 +159,7 @@
       "disputed": false
     },
     {
-      "id": "medicine-0001",
+      "id": "wz-medicine-0001",
       "subject": "medicine",
       "lang": "en",
       "title": "Fatal insomnia",
@@ -172,7 +172,7 @@
       "disputed": false
     },
     {
-      "id": "medicine-0002",
+      "id": "wz-medicine-0002",
       "subject": "medicine",
       "lang": "en",
       "title": "Alien hand syndrome",
@@ -185,7 +185,7 @@
       "disputed": false
     },
     {
-      "id": "medicine-0003",
+      "id": "wz-medicine-0003",
       "subject": "medicine",
       "lang": "en",
       "title": "Lazarus phenomenon",
@@ -198,7 +198,7 @@
       "disputed": true
     },
     {
-      "id": "medicine-0004",
+      "id": "wz-medicine-0004",
       "subject": "medicine",
       "lang": "en",
       "title": "Foreign accent syndrome",
@@ -211,7 +211,7 @@
       "disputed": false
     },
     {
-      "id": "spanish-0001",
+      "id": "wz-spanish-0001",
       "subject": "spanish",
       "lang": "es",
       "title": "La Tomatina",
@@ -224,7 +224,7 @@
       "disputed": true
     },
     {
-      "id": "spanish-0002",
+      "id": "wz-spanish-0002",
       "subject": "spanish",
       "lang": "es",
       "title": "Relámpago del Catatumbo",
@@ -237,7 +237,7 @@
       "disputed": true
     },
     {
-      "id": "mandarin-0001",
+      "id": "wz-mandarin-0001",
       "subject": "mandarin",
       "lang": "zh",
       "title": "臭豆腐",
@@ -250,7 +250,7 @@
       "disputed": false
     },
     {
-      "id": "mandarin-0002",
+      "id": "wz-mandarin-0002",
       "subject": "mandarin",
       "lang": "zh",
       "title": "月牙泉",
