@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "item-cracked-teacup",
+      "name": "Cracked Teacup",
+      "description": "Still holds tea, mostly. The crack whispers a little when the kettle boils.",
+      "sprite": "sprites/cracked-teacup.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-candle-stub",
+      "name": "Candle Stub",
+      "description": "A candle that has burned for three hundred years and refuses to get any shorter.",
+      "sprite": "sprites/candle-stub.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-tarnished-key",
+      "name": "Tarnished Key",
+      "description": "Opens a door somewhere in the tower. The door moves house when nobody is looking.",
+      "sprite": "sprites/tarnished-key.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-backwards-compass",
+      "name": "Backwards Compass",
+      "description": "Its needle points to whatever you have just lost. Rarely helpful, always smug.",
+      "sprite": "sprites/backwards-compass.png",
+      "rarity": "uncommon",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    }
+  ]
+}
