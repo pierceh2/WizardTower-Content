@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "item-chipped-teacup",
+      "name": "Chipped Teacup",
+      "description": "Still warm, though nobody has poured it in years. Stirring it clockwise is said to bring a pleasant afternoon.",
+      "sprite": "sprites/chipped-teacup.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-brass-candlestick",
+      "name": "Brass Candlestick",
+      "description": "Its flame has never once flickered, and the wax never shortens. The tower library keeps misplacing it on purpose.",
+      "sprite": "sprites/brass-candlestick.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-old-brass-key",
+      "name": "Old Brass Key",
+      "description": "It fits no lock in the tower, yet every door seems faintly relieved when it passes by.",
+      "sprite": "sprites/old-brass-key.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-sand-hourglass",
+      "name": "Sand Hourglass",
+      "description": "The sand falls upward on Tuesdays. Nobody has ever caught the exact moment it changes its mind.",
+      "sprite": "sprites/sand-hourglass.png",
+      "rarity": "uncommon",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-star-lantern",
+      "name": "Star Lantern",
+      "description": "A captured star hums inside the glass, dimming whenever someone nearby tells a lie. It is very rarely dim.",
+      "sprite": "sprites/star-lantern.png",
+      "rarity": "rare",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    }
+  ]
+}
