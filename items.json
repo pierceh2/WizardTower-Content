@@ -99,6 +99,42 @@
       "rarity": "epic",
       "enabled": true,
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-tiny-cauldron",
+      "name": "Tiny Cauldron",
+      "description": "It bubbles gently whether or not anything is in it. Smells faintly of mint, and of someone else's mistake.",
+      "sprite": "sprites/tiny-cauldron.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-quill-pen",
+      "name": "Quill Pen",
+      "description": "It tries to finish your sentences. It is usually right, which is the annoying part.",
+      "sprite": "sprites/quill-pen.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-dusty-tome",
+      "name": "Dusty Tome",
+      "description": "Every page is blank until you stop looking at it. The moon on the cover has never been seen setting.",
+      "sprite": "sprites/dusty-tome.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-crystal-ball",
+      "name": "Crystal Ball",
+      "description": "It shows tomorrow's weather, yesterday's gossip, and, rarely, where the spare spectacles went.",
+      "sprite": "sprites/crystal-ball.png",
+      "rarity": "uncommon",
+      "enabled": true,
+      "addedAt": "2026-11-05"
     }
   ]
 }
