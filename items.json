@@ -45,6 +45,60 @@
       "rarity": "rare",
       "enabled": true,
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-backwards-compass",
+      "name": "Backwards Compass",
+      "description": "Its needle points to whatever you have just lost. Rarely helpful, always smug.",
+      "sprite": "sprites/backwards-compass.png",
+      "rarity": "uncommon",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-chipped-inkwell",
+      "name": "Chipped Inkwell",
+      "description": "The ink inside never runs dry, but it only ever writes apologies and shopping lists.",
+      "sprite": "sprites/chipped-inkwell.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-mismatched-specs",
+      "name": "Mismatched Specs",
+      "description": "One lens shows what is there. The other shows what was there a moment ago.",
+      "sprite": "sprites/mismatched-specs.png",
+      "rarity": "uncommon",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-bottled-storm",
+      "name": "Bottled Storm",
+      "description": "A small, furious thunderstorm. Please do not tap the glass; it takes it personally.",
+      "sprite": "sprites/bottled-storm.png",
+      "rarity": "rare",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-moon-in-a-jar",
+      "name": "Moon in a Jar",
+      "description": "Caught on a clear night and kept ever since. It waxes and wanes whenever the jar is not watched.",
+      "sprite": "sprites/moon-in-a-jar.png",
+      "rarity": "rare",
+      "enabled": true,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-eclipse-amulet",
+      "name": "Eclipse Amulet",
+      "description": "A black sun ringed in ember gold. The dark centre drinks light, and the corona never quite stops burning.",
+      "sprite": "sprites/eclipse-amulet.png",
+      "rarity": "epic",
+      "enabled": true,
+      "addedAt": "2026-11-05"
     }
   ]
 }
