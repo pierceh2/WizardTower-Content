@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T08:00:00Z",
+  "updatedAt": "2026-11-12T02:50:24Z",
   "facts": [
     {
       "id": "wz-random-0001",
@@ -261,6 +261,32 @@
       "source": "Wikipedia",
       "addedAt": "2026-11-04",
       "disputed": false
+    },
+    {
+      "id": "wz-random-0009",
+      "subject": "random",
+      "lang": "en",
+      "title": "Tanganyika laughter epidemic",
+      "text": "In January 1962, uncontrollable laughing began among girls at a boarding school in Kashasha, in what is now Tanzania. It spread to about 1,000 people, forced 14 schools to close, and faded after about 18 months. The cause is still debated, with mass psychogenic illness the leading idea.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Tanganyika_laughter_epidemic",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-12",
+      "disputed": true
+    },
+    {
+      "id": "wz-spanish-0003",
+      "subject": "spanish",
+      "lang": "es",
+      "title": "Lluvia de animales",
+      "text": "En 1861, tras un terremoto y tres días de lluvia, aparecieron miles de peces en los charcos de Singapur. Se suele explicar por una tromba marina que levanta animales pequeños y los suelta lejos, pero esa explicación no resuelve todo. Por ejemplo, casi siempre cae una sola especie.",
+      "translation": "In 1861, after an earthquake and three days of rain, thousands of fish appeared in puddles in Singapore. It is usually explained by a waterspout that lifts small animals and drops them far away, but that explanation does not settle everything. For example, usually only one species falls.",
+      "reading": null,
+      "url": "https://es.wikipedia.org/wiki/Lluvia_de_animales",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-12",
+      "disputed": true
     }
   ],
   "initialized": true

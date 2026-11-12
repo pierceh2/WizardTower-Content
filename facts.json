@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T08:00:00Z",
+  "updatedAt": "2026-11-12T02:50:24Z",
   "facts": [
     {
       "id": "cardiology-0010",
@@ -780,6 +780,71 @@
       "url": "https://es.wikipedia.org/wiki/Sima_de_los_Huesos",
       "source": "Wikipedia",
       "addedAt": "2026-11-04",
+      "disputed": null
+    },
+    {
+      "id": "random-0049",
+      "subject": "random",
+      "lang": "en",
+      "title": "Tin pest",
+      "text": "Below 13.2 °C, metallic white tin can slowly turn into brittle grey tin with a diamond-cubic structure. The change expands the metal by about 27%, so objects crumble, and once started it accelerates on its own. Medieval church organ pipes were hit as early as 1467.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Tin_pest",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-12",
+      "disputed": null
+    },
+    {
+      "id": "random-0050",
+      "subject": "random",
+      "lang": "en",
+      "title": "Gakkel Ridge",
+      "text": "The Gakkel Ridge under the Arctic Ocean spreads at under 1 cm a year, the slowest known spreading ridge. Even so, a 2007 expedition found pyroclastic deposits over 10 km² of its axial valley, with volatile levels about ten times normal for such ridges.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Gakkel_Ridge",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-12",
+      "disputed": null
+    },
+    {
+      "id": "random-0051",
+      "subject": "random",
+      "lang": "en",
+      "title": "Tritone paradox",
+      "text": "Play two tones exactly half an octave apart, built from stacked octaves, and listeners disagree on whether the pair rises or falls. Diana Deutsch found in 1986 that the answer depends on the listener's speech background: Californians and southern English speakers resolve it in opposite ways.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Tritone_paradox",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-12",
+      "disputed": null
+    },
+    {
+      "id": "cardiology-0019",
+      "subject": "cardiology",
+      "lang": "en",
+      "title": "Naxos disease",
+      "text": "On the Greek island of Naxos, doctors described a family syndrome that links woolly hair and thick palms and soles with arrhythmogenic right ventricular cardiomyopathy. A 2000 study traced it to a plakoglobin deletion, a desmosome protein. Up to 1 in 1,000 islanders is affected.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Naxos_disease",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-12",
+      "disputed": null
+    },
+    {
+      "id": "medicine-0019",
+      "subject": "medicine",
+      "lang": "en",
+      "title": "Osseointegration",
+      "text": "Titanium screws in rat femurs tightened over 6 to 16 weeks in Leventhal's 1951 work, which predates Brånemark. In 1952 Brånemark's titanium chamber in rabbit bone fused so completely that it could not be removed. He coined the term, and in 1965 placed the first human dental implant.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Osseointegration",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-12",
       "disputed": null
     }
   ],
