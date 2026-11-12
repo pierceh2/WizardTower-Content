@@ -135,6 +135,42 @@
       "rarity": "uncommon",
       "enabled": true,
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "item-wax-seal-stamp",
+      "name": "Wax Seal Stamp",
+      "description": "A brass stamp still warm to the touch. Whatever it seals stays shut until the stamp itself decides otherwise.",
+      "sprite": "sprites/wax-seal-stamp.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "item-feather-duster",
+      "name": "Feather Duster",
+      "description": "Banishes dust, cobwebs and the occasional minor ghost. Handle with care near the sleeping portraits.",
+      "sprite": "sprites/feather-duster.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "item-pointy-slipper",
+      "name": "Pointy Slipper",
+      "description": "One curl-toed slipper with a tiny brass bell. Its partner is somewhere else entirely, probably on purpose.",
+      "sprite": "sprites/pointy-slipper.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "item-whispering-shell",
+      "name": "Whispering Shell",
+      "description": "Hold it to your ear and it murmurs tomorrow's weather, last week's gossip, and one very rude limerick.",
+      "sprite": "sprites/whispering-shell.png",
+      "rarity": "uncommon",
+      "enabled": true,
+      "addedAt": "2026-11-12"
     }
   ]
 }
