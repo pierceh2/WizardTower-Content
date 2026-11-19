@@ -171,6 +171,42 @@
       "rarity": "uncommon",
       "enabled": true,
       "addedAt": "2026-11-12"
+    },
+    {
+      "id": "item-humming-kettle",
+      "name": "Humming Kettle",
+      "description": "It hums a different lullaby every evening and boils only when it is sure nobody is watching.",
+      "sprite": "sprites/humming-kettle.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-19"
+    },
+    {
+      "id": "item-lonely-sock",
+      "name": "Lonely Sock",
+      "description": "Striped, mended, and fiercely loyal to a partner that vanished in the wash. It still keeps one foot warm.",
+      "sprite": "sprites/lonely-sock.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-19"
+    },
+    {
+      "id": "item-muffled-bell",
+      "name": "Muffled Bell",
+      "description": "Someone stuffed its clapper with red cloth. Now it rings only inside your head, and only when something is about to happen.",
+      "sprite": "sprites/muffled-bell.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-19"
+    },
+    {
+      "id": "item-pocket-sundial",
+      "name": "Pocket Sundial",
+      "description": "Its shadow tells the hour of whichever day you wish it were. Most owners wish for Friday.",
+      "sprite": "sprites/pocket-sundial.png",
+      "rarity": "uncommon",
+      "enabled": true,
+      "addedAt": "2026-11-19"
     }
   ]
 }
