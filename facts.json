@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T02:25:16Z",
+  "updatedAt": "2026-11-19T12:00:00Z",
   "facts": [
     {
       "id": "cardiology-0010",
@@ -1103,6 +1103,71 @@
       "translation": "The Uyuni salt flat measures 10,582 km² and has about eleven layers of salt. It is so flat, with less than 1 m of difference across hundreds of km², that it is used to calibrate optical satellite sensors. It also holds about 21 million tonnes of lithium, according to a USGS report.",
       "reading": null,
       "url": "https://es.wikipedia.org/wiki/Salar_de_Uyuni",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-19",
+      "disputed": null
+    },
+    {
+      "id": "random-0060",
+      "subject": "random",
+      "lang": "en",
+      "title": "Gough Island mice",
+      "text": "On Gough Island, introduced house mice have grown roughly twice the size of mainland mice and prey on seabird chicks. Estimates put the lost production at up to 2 million eggs and chicks, threatening the Tristan albatross, which breeds almost nowhere else.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Gough_Island",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-19",
+      "disputed": null
+    },
+    {
+      "id": "random-0061",
+      "subject": "random",
+      "lang": "en",
+      "title": "Onyx River",
+      "text": "Antarctica's longest river, the Onyx, runs 32 km inland (westward) through Wright Valley, fed only by glacier melt for a few summer months. It ends in Lake Vanda, sometimes failing to reach it, and hosts algae, nematodes and tardigrades but no fish.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Onyx_River",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-19",
+      "disputed": null
+    },
+    {
+      "id": "random-0062",
+      "subject": "random",
+      "lang": "en",
+      "title": "Wardian case",
+      "text": "In 1833 Nathaniel Ward, a London physician, shipped sealed glazed cases of ferns to Sydney after a fern sprouted in a closed bottle. The cases later carried tea to India and rubber seedlings to Ceylon and Malaya, and accidentally spread invasive plants.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Wardian_case",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-19",
+      "disputed": null
+    },
+    {
+      "id": "spanish-0022",
+      "subject": "spanish",
+      "lang": "es",
+      "title": "Mina de Naica",
+      "text": "En la mina de Naica, a unos 300 metros bajo tierra, hay cuevas con cristales gigantes de yeso. Hace unos 45 °C y 80 % de humedad, así que una persona sin protección puede perder el conocimiento en menos de diez minutos.",
+      "translation": "In the Naica mine, about 300 meters underground, there are caves with giant gypsum crystals. It is about 45 °C with 80% humidity, so an unprotected person can lose consciousness in under ten minutes.",
+      "reading": null,
+      "url": "https://es.wikipedia.org/wiki/Mina_de_Naica",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-19",
+      "disputed": null
+    },
+    {
+      "id": "mandarin-0022",
+      "subject": "mandarin",
+      "lang": "zh",
+      "title": "坎儿井",
+      "text": "坎儿井是沙漠地区的地下水渠。人们先挖竖井，再在地下挖渠引水，水不容易蒸发。鼎盛时期有一千七百多条。",
+      "translation": "Karez wells are underground water channels in desert areas. People first dig vertical shafts, then dig channels underground to carry water, so it does not evaporate easily. At their peak there were over 1,700.",
+      "reading": "kǎn ér jǐng shì shā mò dì qū de dì xià shuǐ qú. rén men xiān wā shù jǐng, zài zài dì xià wā qú yǐn shuǐ, shuǐ bù róng yì zhēng fā. dǐng shèng shí qī yǒu yì qiān qī bǎi duō tiáo.",
+      "url": "https://zh.wikipedia.org/wiki/%E5%9D%8E%E5%84%BF%E4%BA%95",
       "source": "Wikipedia",
       "addedAt": "2026-11-19",
       "disputed": null

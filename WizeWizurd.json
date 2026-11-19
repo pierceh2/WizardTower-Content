@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T02:25:16Z",
+  "updatedAt": "2026-11-19T12:00:00Z",
   "facts": [
     {
       "id": "wz-random-0001",
@@ -544,6 +544,32 @@
       "translation": "Some bamboo only flowers once every few decades, even a hundred years. Nearby bamboo then flowers too, and afterwards large bamboo forests die. Each bamboo stalk lives only five to seven years.",
       "reading": "Yǒuxiē zhúzi jǐ shí nián, shènzhì yì bǎi nián cái kāi yí cì huā. Fùjìn de zhúzi huì jiēzhe kāihuā, zhīhòu dàpiàn zhúlín huì sǐwáng. Měi gēn zhúgān zhǐ huó wǔ dào qī nián.",
       "url": "https://zh.wikipedia.org/wiki/%E7%AB%B9%E5%AD%90",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-19",
+      "disputed": false
+    },
+    {
+      "id": "wz-random-0018",
+      "subject": "random",
+      "lang": "en",
+      "title": "Lake Peigneur",
+      "text": "In 1980 a Texaco rig drilling in Louisiana's Lake Peigneur pierced a salt mine beneath it. The lake drained into the mine, swallowing a drilling platform and 11 barges, reversing a canal into a 164-foot waterfall, and leaving the lake far deeper (about 200 ft) afterward.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Lake_Peigneur",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-19",
+      "disputed": false
+    },
+    {
+      "id": "wz-mandarin-0006",
+      "subject": "mandarin",
+      "lang": "zh",
+      "title": "一千零一夜",
+      "text": "《一千零一夜》里最有名的阿拉丁和阿里巴巴，在早期阿拉伯手稿里并没有。十八世纪法国学者加朗翻译时才加进去。",
+      "translation": "The most famous tales in the Arabian Nights, Aladdin and Ali Baba, are not in the early Arabic manuscripts. They were added when the French scholar Galland translated it in the 18th century.",
+      "reading": "《yī qiān líng yī yè》 lǐ zuì yǒu míng de ā lā dīng hé ā lǐ bā bā, zài zǎo qī ā lā bó shǒu gǎo lǐ bìng méi yǒu. shí bā shì jì fǎ guó xué zhě jiā lǎng fān yì shí cái jiā jìn qù.",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C",
       "source": "Wikipedia",
       "addedAt": "2026-11-19",
       "disputed": false
