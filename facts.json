@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T12:00:00Z",
+  "updatedAt": "2026-11-26T04:08:08Z",
   "facts": [
     {
       "id": "cardiology-0010",
@@ -1170,6 +1170,71 @@
       "url": "https://zh.wikipedia.org/wiki/%E5%9D%8E%E5%84%BF%E4%BA%95",
       "source": "Wikipedia",
       "addedAt": "2026-11-19",
+      "disputed": null
+    },
+    {
+      "id": "random-0063",
+      "subject": "random",
+      "lang": "en",
+      "title": "Whale fall",
+      "text": "When a whale sinks to the deep sea floor, its carcass feeds an ecosystem in stages: scavengers like hagfish strip it in months to ~1.5 years, then opportunists colonize bones and sediment, then sulfur-driven bacteria in the bones sustain mussels and clams for roughly 50 to 100 years.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Whale_fall",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-26",
+      "disputed": null
+    },
+    {
+      "id": "random-0064",
+      "subject": "random",
+      "lang": "en",
+      "title": "Lichenometry",
+      "text": "Geologists can date how long a rock surface has been exposed by measuring the largest map lichen (Rhizocarpon geographicum) on it, which grows radially only about 0.3 to 0.9 mm a year. It is accurate to ~10% for surfaces under 1,000 years, but critics say growth curves are hard to replicate.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Lichenometry",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-26",
+      "disputed": null
+    },
+    {
+      "id": "random-0065",
+      "subject": "random",
+      "lang": "en",
+      "title": "Pitch Lake",
+      "text": "Trinidad's Pitch Lake, about 0.4 km² and 76 m deep, holds an estimated 10 million tons of bitumen. It paved early roads in New York and Washington, yielded kerosene in the 1860s, and today hosts extremophile microbes at roughly a million to ten million cells per gram.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Pitch_Lake",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-26",
+      "disputed": null
+    },
+    {
+      "id": "spanish-0023",
+      "subject": "spanish",
+      "lang": "es",
+      "title": "Géiseres del Tatio",
+      "text": "En Chile, a unos 4.200 metros de altura, los géiseres del Tatio tienen cerca de 80 géiseres verdaderos. El agua sale a unos 86 °C, que es su punto de ebullición a esa altitud. Sus chorros son pequeños: en promedio miden unos 76 cm y el más alto llegó a unos 5 metros.",
+      "translation": "In Chile, at about 4,200 meters of altitude, the El Tatio geysers have around 80 true geysers. The water emerges at about 86 °C, its boiling point at that altitude. The jets are small: on average about 76 cm, and the tallest reached about 5 meters.",
+      "reading": null,
+      "url": "https://es.wikipedia.org/wiki/G%C3%A9iseres_del_Tatio",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-26",
+      "disputed": null
+    },
+    {
+      "id": "mandarin-0023",
+      "subject": "mandarin",
+      "lang": "zh",
+      "title": "地动仪",
+      "text": "东汉的张衡做了地动仪。它有八个龙头，每个龙头嘴里有一个铜球。哪边地震，那边的龙就吐出铜球。",
+      "translation": "The Eastern Han scholar Zhang Heng made the seismoscope. It had eight dragon heads, each holding a bronze ball in its mouth. The dragon on the side of the quake dropped its ball.",
+      "reading": "Dōnghàn de Zhāng Héng zuò le dìdòngyí. Tā yǒu bā gè lóngtóu, měi gè lóngtóu zuǐ lǐ yǒu yí gè tóngqiú. Nǎ biān dìzhèn, nà biān de lóng jiù tǔchū tóngqiú.",
+      "url": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%8A%A8%E4%BB%AA",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-26",
       "disputed": null
     }
   ],

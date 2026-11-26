@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T12:00:00Z",
+  "updatedAt": "2026-11-26T04:08:08Z",
   "facts": [
     {
       "id": "wz-random-0001",
@@ -572,6 +572,32 @@
       "url": "https://zh.wikipedia.org/wiki/%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C",
       "source": "Wikipedia",
       "addedAt": "2026-11-19",
+      "disputed": false
+    },
+    {
+      "id": "wz-random-0019",
+      "subject": "random",
+      "lang": "en",
+      "title": "Pastry War",
+      "text": "France and Mexico fought a war (1838–39) that began with a French pastry cook's complaint that Mexican officers looted his shop. He claimed 60,000 pesos for a shop worth under 1,000 pesos. France demanded 600,000 pesos, blockaded Veracruz, and Santa Anna lost a leg to grapeshot.",
+      "translation": null,
+      "reading": null,
+      "url": "https://en.wikipedia.org/wiki/Pastry_War",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-26",
+      "disputed": false
+    },
+    {
+      "id": "wz-mandarin-0007",
+      "subject": "mandarin",
+      "lang": "zh",
+      "title": "钱塘江大潮",
+      "text": "钱塘江的大潮很高，可以到三点五米，速度每秒十一米左右。因为河口像喇叭，海水被挤高。",
+      "translation": "The Qiantang River tidal bore can reach 3.5 meters at about 11 meters per second. The estuary is shaped like a horn, which squeezes the seawater higher.",
+      "reading": "Qiántáng Jiāng de dàcháo hěn gāo, kěyǐ dào sān diǎn wǔ mǐ, sùdù měi miǎo shíyī mǐ zuǒyòu. Yīnwèi hékǒu xiàng lǎba, hǎishuǐ bèi jǐ gāo.",
+      "url": "https://zh.wikipedia.org/wiki/%E9%92%B1%E5%A1%98%E6%B1%9F%E5%A4%A7%E6%BD%AE",
+      "source": "Wikipedia",
+      "addedAt": "2026-11-26",
       "disputed": false
     }
   ],
