@@ -207,6 +207,51 @@
       "rarity": "uncommon",
       "enabled": true,
       "addedAt": "2026-11-19"
+    },
+    {
+      "id": "item-tarnished-trophy",
+      "name": "Tarnished Trophy",
+      "description": "Awarded for a contest nobody remembers entering. It still polishes itself whenever a guest is due.",
+      "sprite": "sprites/tarnished-trophy.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "item-crooked-hat",
+      "name": "Crooked Hat",
+      "description": "Its tip bends toward the nearest secret. Straightening it only makes it sulk and point at the cellar.",
+      "sprite": "sprites/crooked-hat.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "item-pewter-tankard",
+      "name": "Pewter Tankard",
+      "description": "Always half full of something warm. Lift the lid quietly and you may hear a distant tavern singing.",
+      "sprite": "sprites/pewter-tankard.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "item-patched-umbrella",
+      "name": "Patched Umbrella",
+      "description": "Mended with a square of someone's tablecloth. It opens on its own a moment before the rain does.",
+      "sprite": "sprites/patched-umbrella.png",
+      "rarity": "common",
+      "enabled": true,
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "item-gnarled-wand",
+      "name": "Gnarled Wand",
+      "description": "A twisted rowan wand tipped with a sky-blue crystal. It sparks on its own when anyone nearby says please.",
+      "sprite": "sprites/gnarled-wand.png",
+      "rarity": "uncommon",
+      "enabled": true,
+      "addedAt": "2026-11-26"
     }
   ]
 }
